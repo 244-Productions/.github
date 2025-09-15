@@ -85,7 +85,7 @@ O site da 244 Productions funcionará como um portal institucional de divulgaç�
     <tr>
         <td align="center">
             <a href="https://github.com/salvioni">
-                <img style="border-radius: 50%;" src="https://github.com/account" width="80px;" alt="Foto de Celeste Salvioni"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/121465905?v=4" width="80px;" alt="Foto de Celeste Salvioni"/>
                 <br/>
                 <b>Celeste Salvioni</b>
             </a>

@@ -7,15 +7,13 @@ Nosso objetivo é criar uma plataforma digital que centralize informações sobr
 
 ## 📌 Sobre
 
-A 244 Productions é uma produtora independente de eventos culturais localizada no Distrito Federal. O projeto visa enfrentar os desafios da divulgação de artistas e eventos, que atualmente dependem fortemente de redes sociais, limitando alcance, credibilidade e autonomia na gestão de ingressos.  
-
-Segundo Castells (2003), uma presença digital estruturada é essencial para construir reputação, ampliar audiência e fortalecer redes culturais. Nesse sentido, a criação do site da 244 Productions garante maior independência financeira e operacional, além de expandir o alcance dos projetos para além do DF.
+A 244 Productions é uma produtora e gravadora independente, localizada no Distrito Federal. O projeto visa dar credibilidade à marca e divulgar seus artistas e eventos, podendo atingir novos públicos e gerar uma interação personalizada aos interessados em conhecer a marca.
 
 ---
 
-## ❓ O que está sendo desenvolvido? *(What)*
+## ❓ O que está sendo desenvolvido?
 
-Um site institucional de divulgação com:
+Um site de divulgação com:
 
 - Página inicial apresentando a 244 Productions  
 - Seções com informações sobre artistas, eventos e projetos da produtora  
@@ -27,30 +25,30 @@ Um site institucional de divulgação com:
 
 ---
 
-## 🎯 Por que este projeto é importante? *(Why)*
+## 🎯 Por que este projeto é importante?
 
 - Fortalecer a visibilidade e credibilidade da 244 Productions  
 - Reduzir a dependência de terceiros para divulgação e venda de ingressos  
 - Facilitar o acesso do público a informações sobre artistas e eventos  
-- Garantir autonomia financeira e operacional para a produtora  
+- Garantir autonomia financeira e operacional para a produtora
 - Consolidar a presença digital da produtora em nível local e nacional  
 
 ---
 
-## 👤 Para quem é este projeto? *(Who)*
+## 👤 Para quem é este projeto?
 
 - Público geral interessado em música e eventos culturais  
 - Artistas e parceiros da 244 Productions  
-- Gestores de eventos e produtores independentes  
-- Pessoas que desejam comprar ingressos diretamente sem intermediários  
+- Gestores de eventos e produtores da 244 Productions
+- Pessoas que desejam comprar ingressos diretamente sem intermediários
 
 ---
 
-## 🌍 Onde está sendo desenvolvido? *(Where)*
+## 🌍 Onde está sendo desenvolvido?
 
-- Código-fonte e organização dos repositórios: [GitHub](https://github.com)  
+- Código-fonte e organização dos repositórios: [GitHub](https://github.com/244-Productions)  
 - Protótipos e identidade visual: Figma  
-- Documentação do projeto: [`244productions-docs`](https://github.com/seu-usuario/244productions-docs)  
+- Documentação do projeto: [`244productions-docs`](https://github.com/seu-usuario/244productions-docs)
 
 ---
 
@@ -76,8 +74,8 @@ O site da 244 Productions funcionará como um portal institucional de divulgaç�
 - Garantir layout responsivo e acessível  
 
 **Limitações da fase inicial:**  
-- Não haverá áreas restritas para usuários, sistemas de login ou cadastros individuais  
-- O foco principal é divulgação, visibilidade e venda de ingressos  
+- Não haverá áreas restritas para usuários, sistemas de login ou venda de ingressos
+- O foco principal é divulgação e visibilidade
 
 ---
 

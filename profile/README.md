@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Banner.svg" alt="Banner 244 Productions" width="100%">
-</p>
-
 # 244 Productions
 
 **Solução dedicada ao desenvolvimento do site institucional da produtora 244 Productions.**  

@@ -48,7 +48,7 @@ Um site de divulgação com:
 
 - Código-fonte e organização dos repositórios: [GitHub](https://github.com/244-Productions)  
 - Protótipos e identidade visual: Figma  
-- Documentação do projeto: [`244productions-docs`](https://github.com/seu-usuario/244productions-docs)
+- Documentação do projeto: [`244productions-docs`](https://github.com/244-Productions/244productions-docs)
 
 ---
 

@@ -1,6 +1,6 @@
 # 244 Productions
 
-**Solução dedicada ao desenvolvimento do site institucional da produtora 244 Productions.**  
+**Solução dedicada ao desenvolvimento do site da produtora 244 Productions.**  
 Nosso objetivo é criar uma plataforma digital que centralize informações sobre artistas, eventos e marca, além de oferecer bilheteria própria, aumentando a credibilidade e autonomia da produtora.
 
 ---
